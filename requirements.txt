@@ -1,0 +1,8 @@
+# Gym Management System - requirements
+# This project uses ONLY the Python standard library.
+# No packages need to be installed with pip.
+#
+# Python version: 3.8 or newer
+#
+# Modules used (all built in):
+#   http.server, sqlite3, json, os, datetime
